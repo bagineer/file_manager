@@ -1,0 +1,11 @@
+[2025/02/12 17:19:56.661 logger.py(15) - __init__] [DEBUG] created
+[2025/02/12 17:27:52.975 logger.py(11) - <module>] [DEBUG] created
+[2025/02/12 17:28:02.331 logger.py(11) - <module>] [DEBUG] created
+[2025/02/12 17:42:29.368 test.py(28) - main] [INFO] created
+[2025/02/12 17:44:39.412 gui_test.py(29) - __init__] [DEBUG] asdf
+[2025/02/12 17:45:30.150 gui_test.py(29) | __init__] [DEBUG] asdf
+[2025/02/12 17:45:45.764 gui_test.py(29) __init__] [DEBUG] asdf
+[2025/02/12 17:45:57.452 test.py(28) main] [INFO] created
+[2025/02/12 17:49:40.831 test.py(28) main                ] [INFO] created
+[2025/02/12 17:50:10.900 gui_test.py(29) __init__            ] [DEBUG] asdf
+[2025/02/12 17:50:41.900 test.py(28) main] [INFO] created

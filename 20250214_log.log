@@ -1,0 +1,126 @@
+[2025/02/14 17:36:14.734 gui_test.py(29) __init__] [DEBUG] asdf
+[2025/02/14 17:52:27.802 gui_test.py(31) __init__] [DEBUG] asdf
+[2025/02/14 18:02:43.946 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:03:07.085 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:03:22.482 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:03:44.223 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:04:01.200 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:04:16.248 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:04:21.040 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:04:55.246 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:05:15.458 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:07:18.498 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:07:29.029 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:07:37.887 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:07:52.317 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:08:00.661 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:08:07.359 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:08:13.008 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:09:52.394 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:10:14.794 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:10:32.660 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:10:38.308 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:11:42.223 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:11:58.295 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:12:05.572 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:12:29.388 gui.py(252) loadConfig] [INFO] loadConfig started.
+[2025/02/14 18:12:29.388 gui.py(255) loadConfig] [INFO] Load default config
+[2025/02/14 18:12:29.388 gui.py(258) loadConfig] [INFO] Load config : ./config.cfg
+[2025/02/14 18:12:29.388 gui.py(290) loadConfig] [INFO] loadConfig finished.
+[2025/02/14 18:12:29.388 gui.py(65) _init_ui] [INFO] _init_ui started.
+[2025/02/14 18:12:29.402 gui.py(187) _init_ui] [INFO] _init_ui finished.
+[2025/02/14 18:12:29.402 thread.py(53) rerun] [INFO] Start monitoring...
+[2025/02/14 18:12:29.403 thread.py(28) run] [INFO] is running...
+[2025/02/14 18:12:29.403 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/14 18:12:29.404 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 458.61GB, Free : 16.99GB
+[2025/02/14 18:12:29.404 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.43%
+[2025/02/14 18:12:29.404 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9642831989003011 / space_threshold : 0.5
+[2025/02/14 18:12:29.405 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/14 18:12:29.405 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/14 18:12:29.405 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/14 18:12:29.405 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/14 18:12:29.405 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 458.61GB, Free : 16.99GB
+[2025/02/14 18:12:29.405 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.43%
+[2025/02/14 18:12:29.405 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9642831989003011 / space_threshold : 0.5
+[2025/02/14 18:12:29.405 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/14 18:12:29.407 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_21.43.00.99.log
+[2025/02/14 18:12:29.407 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_21.44.36.37.log
+[2025/02/14 18:12:29.407 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.08.57.90.log
+[2025/02/14 18:12:29.408 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.00.63.log
+[2025/02/14 18:12:29.408 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.14.57.log
+[2025/02/14 18:12:29.408 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.21.57.log
+[2025/02/14 18:12:29.408 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.35.69.log
+[2025/02/14 18:12:29.409 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/14 18:12:29.409 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/14 18:12:29.409 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/14 18:12:29.410 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/14 18:12:29.410 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/14 18:12:29.410 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/14 18:12:29.411 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/14 18:12:29.411 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/14 18:12:29.411 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/14 18:12:29.412 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/14 18:12:29.412 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/14 18:12:29.412 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/14 18:12:29.412 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/14 18:12:29.413 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/14 18:12:29.413 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/14 18:12:29.413 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/14 18:12:29.413 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/14 18:12:29.414 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/14 18:12:29.414 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/14 18:12:29.414 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/14 18:12:29.414 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/14 18:12:29.415 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/14 18:12:29.415 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/14 18:12:29.415 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/14 18:12:29.415 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/14 18:12:29.415 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/14 18:12:29.415 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/14 18:12:29.418 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240401_21.43.00.99.log : False
+[2025/02/14 18:12:29.418 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/14 18:12:29.419 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 458.61GB, Free : 16.99GB
+[2025/02/14 18:12:29.419 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.43%
+[2025/02/14 18:12:29.419 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.964283174837851 / space_threshold : 0.5
+[2025/02/14 18:12:29.419 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/14 18:12:29.419 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/14 18:12:29.420 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/14 18:12:29.420 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/14 18:12:29.420 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 458.61GB, Free : 16.99GB
+[2025/02/14 18:12:29.420 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.43%
+[2025/02/14 18:12:29.420 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9642831908794844 / space_threshold : 0.5
+[2025/02/14 18:12:29.420 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/14 18:12:29.421 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/14 18:12:29.421 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/14 18:12:29.421 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/14 18:12:29.436 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.08GB, Free : 31.98GB
+[2025/02/14 18:12:29.436 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.28%
+[2025/02/14 18:12:29.436 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9328295995222688 / space_threshold : 0.3
+[2025/02/14 18:12:29.436 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/14 18:12:29.437 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/14 18:12:29.437 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/14 18:13:28.598 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:14:13.953 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:14:19.503 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:16:20.950 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:19:21.042 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:19:25.236 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:21:37.611 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:22:07.610 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:22:32.261 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:22:50.922 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:22:56.760 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:23:20.642 gui_test.py(37) __init__] [DEBUG] asdf
+[2025/02/14 18:27:18.338 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:29:11.247 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:29:38.201 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:30:37.299 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/14 18:30:53.302 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:31:08.916 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:31:35.322 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:31:46.093 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:32:56.321 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:33:02.305 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:34:46.044 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:36:26.496 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/14 18:36:34.281 gui_test.py(38) __init__] [DEBUG] asdf

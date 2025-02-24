@@ -1,0 +1,805 @@
+[2025/02/20 09:31:01.622 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 09:33:23.946 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 09:38:29.598 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 09:40:20.255 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 09:45:28.580 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 09:45:55.375 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 09:46:24.360 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 09:46:34.520 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 09:47:37.597 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 09:50:51.133 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 09:50:55.470 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 09:59:08.794 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 10:25:35.410 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 10:25:48.690 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 15:19:39.841 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 15:22:52.808 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 15:23:00.215 gui_test.py(38) __init__] [DEBUG] asdf
+[2025/02/20 15:25:01.414 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:25:10.686 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:25:23.002 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:25:27.454 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:25:37.698 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:41:40.616 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:42:09.854 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:42:23.121 gui_test.py(39) __init__] [DEBUG] asdf
+[2025/02/20 15:46:06.168 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 15:46:37.816 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 15:46:49.222 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 15:46:53.429 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 15:47:39.519 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 15:51:38.504 gui_test.py(44) __init__] [DEBUG] asdf
+[2025/02/20 15:52:11.716 gui_test.py(44) __init__] [DEBUG] asdf
+[2025/02/20 15:52:52.793 gui_test.py(44) __init__] [DEBUG] asdf
+[2025/02/20 15:53:21.938 gui_test.py(44) __init__] [DEBUG] asdf
+[2025/02/20 15:53:29.761 gui_test.py(44) __init__] [DEBUG] asdf
+[2025/02/20 15:54:16.814 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 15:54:50.225 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:00:13.304 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:00:25.767 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:00:40.138 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:00:49.775 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:01:18.836 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:01:32.877 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:01:41.612 gui_test.py(43) __init__] [DEBUG] asdf
+[2025/02/20 16:28:37.386 gui_test.py(42) __init__] [DEBUG] asdf
+[2025/02/20 16:28:51.037 gui_test.py(42) __init__] [DEBUG] asdf
+[2025/02/20 16:29:11.670 gui_test.py(42) __init__] [DEBUG] asdf
+[2025/02/20 16:29:18.359 gui_test.py(42) __init__] [DEBUG] asdf
+[2025/02/20 17:50:15.903 gui.py(252) loadConfig] [INFO] loadConfig started.
+[2025/02/20 17:50:15.903 gui.py(255) loadConfig] [INFO] Load default config
+[2025/02/20 17:50:15.903 gui.py(258) loadConfig] [INFO] Load config : ./config.cfg
+[2025/02/20 17:50:15.904 gui.py(290) loadConfig] [INFO] loadConfig finished.
+[2025/02/20 17:50:15.904 gui.py(65) _init_ui] [INFO] _init_ui started.
+[2025/02/20 17:50:15.916 gui.py(187) _init_ui] [INFO] _init_ui finished.
+[2025/02/20 17:50:15.916 thread.py(53) rerun] [INFO] Start monitoring...
+[2025/02/20 17:50:15.917 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:15.917 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:15.918 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:15.918 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:15.918 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616067726749672 / space_threshold : 0.5
+[2025/02/20 17:50:15.918 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:15.918 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:15.918 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:15.918 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:15.918 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:15.918 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:15.918 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616067806957839 / space_threshold : 0.5
+[2025/02/20 17:50:15.918 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:15.919 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_21.44.36.37.log
+[2025/02/20 17:50:15.919 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.08.57.90.log
+[2025/02/20 17:50:15.919 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.00.63.log
+[2025/02/20 17:50:15.919 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.14.57.log
+[2025/02/20 17:50:15.920 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.21.57.log
+[2025/02/20 17:50:15.920 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.35.69.log
+[2025/02/20 17:50:15.920 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/20 17:50:15.920 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:15.920 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:15.921 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:15.921 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:15.921 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:15.921 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:15.921 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:15.922 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:15.922 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:15.922 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:15.922 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:15.923 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:15.923 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:15.923 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:15.924 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:15.924 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:15.924 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:15.924 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:15.924 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:15.924 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:15.925 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:15.925 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:15.925 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:15.925 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:15.926 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:15.926 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:15.930 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240401_21.44.36.37.log : False
+[2025/02/20 17:50:15.930 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:15.930 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:15.930 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:15.931 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616067405917003 / space_threshold : 0.5
+[2025/02/20 17:50:15.931 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:15.931 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:15.931 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:15.931 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:15.931 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:15.931 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:15.931 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616067405917003 / space_threshold : 0.5
+[2025/02/20 17:50:15.932 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:15.932 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:15.932 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:15.932 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:15.932 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:15.932 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:15.932 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:15.932 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:15.932 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:15.933 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:20.936 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:20.936 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:20.936 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:20.936 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:20.936 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616067726749672 / space_threshold : 0.5
+[2025/02/20 17:50:20.936 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:20.936 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:20.937 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:20.937 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:20.937 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:20.937 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:20.937 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616068127790507 / space_threshold : 0.5
+[2025/02/20 17:50:20.937 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:20.937 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.08.57.90.log
+[2025/02/20 17:50:20.937 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.00.63.log
+[2025/02/20 17:50:20.937 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.14.57.log
+[2025/02/20 17:50:20.937 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.21.57.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.35.69.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:20.938 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:20.939 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:20.940 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:20.945 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240401_22.08.57.90.log : False
+[2025/02/20 17:50:20.945 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:20.945 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:20.945 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:20.945 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616067646541504 / space_threshold : 0.5
+[2025/02/20 17:50:20.945 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:20.945 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:20.945 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:20.945 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:20.945 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:20.945 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:20.945 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616067646541504 / space_threshold : 0.5
+[2025/02/20 17:50:20.945 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:20.946 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:20.946 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:20.946 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:20.946 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:20.946 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:20.946 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:20.946 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:20.946 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:20.946 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:25.949 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:25.949 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:25.949 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:25.949 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:25.949 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616071817366196 / space_threshold : 0.5
+[2025/02/20 17:50:25.950 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:25.950 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:25.950 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:25.950 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:25.950 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:25.950 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:25.950 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616071817366196 / space_threshold : 0.5
+[2025/02/20 17:50:25.950 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:25.950 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.00.63.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.14.57.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.21.57.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.35.69.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:25.951 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:25.952 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:25.953 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:25.957 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240401_22.13.00.63.log : False
+[2025/02/20 17:50:25.957 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:25.957 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:25.957 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:25.957 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616071336117193 / space_threshold : 0.5
+[2025/02/20 17:50:25.957 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:25.957 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:25.957 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:25.957 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:25.958 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:25.958 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:25.958 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616071336117193 / space_threshold : 0.5
+[2025/02/20 17:50:25.958 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:25.958 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:25.958 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:25.958 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:25.958 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:25.958 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:25.958 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:25.958 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:25.958 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:25.958 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:30.964 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:30.964 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:30.964 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:30.964 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:30.964 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073982986709 / space_threshold : 0.5
+[2025/02/20 17:50:30.964 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:30.964 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:30.964 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:30.965 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:30.965 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:30.965 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:30.965 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073982986709 / space_threshold : 0.5
+[2025/02/20 17:50:30.965 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:30.965 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.13.14.57.log
+[2025/02/20 17:50:30.965 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.21.57.log
+[2025/02/20 17:50:30.965 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.35.69.log
+[2025/02/20 17:50:30.965 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:30.966 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:30.967 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:30.968 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:30.968 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:30.968 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:30.968 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:30.968 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:30.971 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240401_22.13.14.57.log : False
+[2025/02/20 17:50:30.971 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:30.971 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:30.971 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:30.971 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.961607366215404 / space_threshold : 0.5
+[2025/02/20 17:50:30.971 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:30.971 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:30.971 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:30.971 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:30.972 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:30.972 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:30.972 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.961607366215404 / space_threshold : 0.5
+[2025/02/20 17:50:30.972 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:30.972 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:30.972 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:30.972 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:30.972 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:30.972 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:30.972 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:30.972 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:30.972 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:30.972 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:35.985 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:35.985 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:35.985 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:35.985 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:35.985 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074384027544 / space_threshold : 0.5
+[2025/02/20 17:50:35.985 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:35.985 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:35.985 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:35.985 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:35.985 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:35.985 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:35.986 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074384027544 / space_threshold : 0.5
+[2025/02/20 17:50:35.986 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:35.986 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.21.57.log
+[2025/02/20 17:50:35.986 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.35.69.log
+[2025/02/20 17:50:35.986 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/20 17:50:35.986 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:35.986 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:35.986 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:35.987 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:35.988 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:35.989 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:35.994 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240401_22.17.21.57.log : False
+[2025/02/20 17:50:35.994 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:35.994 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:35.994 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:35.994 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073902778541 / space_threshold : 0.5
+[2025/02/20 17:50:35.994 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:35.994 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:35.994 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:35.994 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:35.994 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:35.994 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:35.994 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073902778541 / space_threshold : 0.5
+[2025/02/20 17:50:35.995 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:35.995 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:35.995 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:35.995 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:35.995 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:35.995 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:35.995 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:35.995 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:35.995 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:35.995 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:41.001 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:41.001 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:41.001 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:41.001 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:41.001 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074063194876 / space_threshold : 0.5
+[2025/02/20 17:50:41.001 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:41.001 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:41.001 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:41.001 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:41.002 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:41.002 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:41.002 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074063194876 / space_threshold : 0.5
+[2025/02/20 17:50:41.002 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:41.002 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240401_22.17.35.69.log
+[2025/02/20 17:50:41.002 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/20 17:50:41.002 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:41.002 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:41.002 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:41.002 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:41.003 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:41.004 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:41.005 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:41.009 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240401_22.17.35.69.log : False
+[2025/02/20 17:50:41.009 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:41.009 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:41.009 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:41.010 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073742362208 / space_threshold : 0.5
+[2025/02/20 17:50:41.010 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:41.010 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:41.010 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:41.010 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:41.010 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:41.010 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:41.010 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073742362208 / space_threshold : 0.5
+[2025/02/20 17:50:41.010 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:41.010 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:41.010 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:41.010 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:41.010 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:41.011 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:41.011 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:41.011 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:41.011 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:41.011 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:46.023 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:46.023 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:46.023 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:46.023 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:46.023 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616075025692882 / space_threshold : 0.5
+[2025/02/20 17:50:46.023 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:46.024 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:46.024 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:46.024 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:46.024 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:46.024 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:46.024 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616075025692882 / space_threshold : 0.5
+[2025/02/20 17:50:46.024 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:46.024 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.23.90.log
+[2025/02/20 17:50:46.024 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:46.024 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:46.024 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:46.024 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:46.025 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:46.026 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:46.027 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:46.030 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240402_ 9.18.23.90.log : False
+[2025/02/20 17:50:46.030 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:46.030 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:46.030 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:46.030 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074143403043 / space_threshold : 0.5
+[2025/02/20 17:50:46.031 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:46.031 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:46.031 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:46.031 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:46.031 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:46.031 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:46.031 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074143403043 / space_threshold : 0.5
+[2025/02/20 17:50:46.031 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:46.031 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:46.031 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:46.031 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:46.032 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:46.032 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:46.032 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:46.032 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:46.032 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:46.032 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:51.038 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:51.038 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:51.038 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:51.038 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:51.038 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073020488703 / space_threshold : 0.5
+[2025/02/20 17:50:51.038 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:51.038 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:51.038 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:51.038 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:51.038 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:51.038 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:51.038 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073020488703 / space_threshold : 0.5
+[2025/02/20 17:50:51.038 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:51.038 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.18.47.64.log
+[2025/02/20 17:50:51.038 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:51.038 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:51.038 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:51.040 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:51.041 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:51.042 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:51.044 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240402_ 9.18.47.64.log : False
+[2025/02/20 17:50:51.044 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:51.044 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:51.044 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:51.044 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616072699656034 / space_threshold : 0.5
+[2025/02/20 17:50:51.044 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:51.045 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:51.045 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:51.045 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:51.045 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:51.045 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:51.045 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616072699656034 / space_threshold : 0.5
+[2025/02/20 17:50:51.045 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:51.045 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:51.045 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:51.045 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:51.045 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:51.046 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:51.046 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:51.046 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:51.046 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:51.046 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:56.048 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:50:56.048 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:56.048 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:56.048 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:56.048 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616072699656034 / space_threshold : 0.5
+[2025/02/20 17:50:56.048 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:56.048 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:50:56.048 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:56.048 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:56.049 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:56.049 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:56.049 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616072699656034 / space_threshold : 0.5
+[2025/02/20 17:50:56.049 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:50:56.049 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240402_ 9.20.12.69.log
+[2025/02/20 17:50:56.049 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:50:56.049 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:50:56.049 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:50:56.049 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:50:56.050 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:50:56.051 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:50:56.054 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240402_ 9.20.12.69.log : False
+[2025/02/20 17:50:56.054 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:56.054 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:56.054 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:56.054 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073501737706 / space_threshold : 0.5
+[2025/02/20 17:50:56.054 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:56.054 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:50:56.054 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:56.054 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:56.055 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:50:56.055 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:50:56.055 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073501737706 / space_threshold : 0.5
+[2025/02/20 17:50:56.055 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:56.055 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:50:56.055 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:50:56.055 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:56.055 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:50:56.055 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:50:56.055 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:50:56.055 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:56.055 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:50:56.055 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:01.064 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:51:01.064 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:01.064 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:01.064 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:01.064 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.961607366215404 / space_threshold : 0.5
+[2025/02/20 17:51:01.064 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:01.064 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:01.064 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:01.064 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:51:01.065 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:01.065 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:01.065 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.961607366215404 / space_threshold : 0.5
+[2025/02/20 17:51:01.065 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:51:01.065 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.47.19.50.log
+[2025/02/20 17:51:01.065 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:51:01.065 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:51:01.065 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:51:01.065 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:51:01.065 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:51:01.066 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:51:01.067 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:51:01.071 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240412_15.47.19.50.log : False
+[2025/02/20 17:51:01.071 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:01.071 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:01.071 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:01.071 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073261113205 / space_threshold : 0.5
+[2025/02/20 17:51:01.071 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:01.071 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:01.071 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:01.071 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:01.071 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:01.071 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:01.071 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073261113205 / space_threshold : 0.5
+[2025/02/20 17:51:01.071 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:01.072 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:01.072 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:01.072 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:01.072 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:51:01.072 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:51:01.072 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:51:01.072 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:01.072 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:01.072 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:06.077 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:51:06.077 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:06.077 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:06.077 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:06.077 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073341321372 / space_threshold : 0.5
+[2025/02/20 17:51:06.077 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:06.077 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:06.077 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:06.077 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:51:06.077 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:06.078 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:06.078 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073341321372 / space_threshold : 0.5
+[2025/02/20 17:51:06.078 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:51:06.078 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.48.16.24.log
+[2025/02/20 17:51:06.078 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:51:06.078 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:51:06.078 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:51:06.078 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:51:06.078 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:51:06.078 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:51:06.079 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:51:06.080 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:51:06.080 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:51:06.080 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:51:06.080 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:51:06.080 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:51:06.083 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240412_15.48.16.24.log : False
+[2025/02/20 17:51:06.083 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:06.083 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:06.083 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:06.083 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616072860072369 / space_threshold : 0.5
+[2025/02/20 17:51:06.083 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:06.083 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:06.083 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:06.083 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:06.084 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:06.084 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:06.084 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616072860072369 / space_threshold : 0.5
+[2025/02/20 17:51:06.084 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:06.084 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:06.084 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:06.084 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:06.084 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:51:06.084 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:51:06.084 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:51:06.084 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:06.084 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:06.084 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:11.090 thread.py(28) run] [INFO] is running...
+[2025/02/20 17:51:11.090 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:11.090 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:11.090 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:11.090 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074223611211 / space_threshold : 0.5
+[2025/02/20 17:51:11.090 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:11.090 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_1/old
+[2025/02/20 17:51:11.090 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:11.090 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:51:11.090 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:11.090 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:11.091 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616074223611211 / space_threshold : 0.5
+[2025/02/20 17:51:11.091 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.49.46.09.log
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.50.04.75.log
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240412_15.53.20.07.log
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240416_17.45.10.86.log
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_17.59.34.40.log
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.13.35.76.log
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.16.21.96.log
+[2025/02/20 17:51:11.091 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240418_18.20.25.74.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240419_ 9.38.23.66.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240426_16.03.08.58.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240503_13.18.35.60.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.27.54.03.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240506_10.28.27.55.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.50.54.83.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240508_14.51.15.87.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240517_17.40.13.02.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.26.80.log
+[2025/02/20 17:51:11.092 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240521_18.23.48.35.log
+[2025/02/20 17:51:11.093 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_ 1.11.29.14.log
+[2025/02/20 17:51:11.093 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.21.20.log
+[2025/02/20 17:51:11.093 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240527_17.45.52.48.log
+[2025/02/20 17:51:11.093 file_manager.py(196) _getOldestPath] [DEBUG] logs_20240528_11.50.34.18.log
+[2025/02/20 17:51:11.095 file_manager.py(177) deleteOldest] [INFO] Finished to delete C:/Users/User/Desktop/tmp/file_manager_test/apr_log/line_2/old\logs_20240412_15.49.46.09.log : False
+[2025/02/20 17:51:11.095 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:11.095 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:11.095 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:11.095 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073742362208 / space_threshold : 0.5
+[2025/02/20 17:51:11.095 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:11.096 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_1
+[2025/02/20 17:51:11.096 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:11.096 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:11.096 file_manager.py(243) _getUsageRate] [INFO] Total : 475.60GB, Used : 457.34GB, Free : 18.26GB
+[2025/02/20 17:51:11.096 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 96.16%
+[2025/02/20 17:51:11.096 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9616073742362208 / space_threshold : 0.5
+[2025/02/20 17:51:11.096 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:11.096 file_manager.py(206) _getOldestPath] [WARNING] No available paths in C:/Users/User/Desktop/tmp/file_manager_test/apr_log/240613/line_2
+[2025/02/20 17:51:11.096 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path
+[2025/02/20 17:51:11.096 file_manager.py(150) deleteOldest] [DEBUG] _getUsageRate : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:11.096 file_manager.py(243) _getUsageRate] [INFO] Total : 476.05GB, Used : 444.20GB, Free : 31.86GB
+[2025/02/20 17:51:11.096 file_manager.py(244) _getUsageRate] [DEBUG] Space rate : 93.31%
+[2025/02/20 17:51:11.096 file_manager.py(153) deleteOldest] [DEBUG] usage_rate : 0.9330849144859542 / space_threshold : 0.3
+[2025/02/20 17:51:11.096 file_manager.py(193) _getOldestPath] [DEBUG] search dir path : E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:11.097 file_manager.py(206) _getOldestPath] [WARNING] No available paths in E:/file_manager_test/OLIVEYOUNG_PAT_DATA
+[2025/02/20 17:51:11.097 file_manager.py(161) deleteOldest] [WARNING] There's no available oldest path

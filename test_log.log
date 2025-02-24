@@ -1,0 +1,1162 @@
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+asdF
+debug
+info
+warning
+error
+critical
+warning
+error
+critical
+info
+warning
+error
+critical
+debug
+info
+warning
+error
+critical
+debug
+02/12/2025 03:30:51 PM:DEBUG:debug
+info
+02/12/2025 03:30:51 PM:INFO:info
+warning
+02/12/2025 03:30:51 PM:WARNING:warning
+error
+02/12/2025 03:30:51 PM:ERROR:error
+critical
+02/12/2025 03:30:51 PM:CRITICAL:critical
+debug
+info
+warning
+error
+critical
+debug
+2025/02/12 15:31:34:DEBUG:debug
+info
+2025/02/12 15:31:34:INFO:info
+warning
+2025/02/12 15:31:34:WARNING:warning
+error
+2025/02/12 15:31:34:ERROR:error
+critical
+2025/02/12 15:31:34:CRITICAL:critical
+debug
+[2025/02/12 15:32:59 test.py(37)] [            <module>] debug
+info
+[2025/02/12 15:32:59 test.py(38)] [            <module>] info
+warning
+[2025/02/12 15:32:59 test.py(39)] [            <module>] warning
+error
+[2025/02/12 15:32:59 test.py(40)] [            <module>] error
+critical
+[2025/02/12 15:32:59 test.py(41)] [            <module>] critical
+debug
+[2025/02/12 15:33:29 test.py(17)] [                main] debug
+info
+[2025/02/12 15:33:29 test.py(18)] [                main] info
+warning
+[2025/02/12 15:33:29 test.py(19)] [                main] warning
+error
+[2025/02/12 15:33:29 test.py(20)] [                main] error
+critical
+[2025/02/12 15:33:29 test.py(21)] [                main] critical
+debug
+[2025/02/12 15:33:53 test.py(17)] [main] debug
+info
+[2025/02/12 15:33:53 test.py(18)] [main] info
+warning
+[2025/02/12 15:33:53 test.py(19)] [main] warning
+error
+[2025/02/12 15:33:53 test.py(20)] [main] error
+critical
+[2025/02/12 15:33:53 test.py(21)] [main] critical
+debug
+[2025/02/12 15:34:52 test.py(17) - main] [DEBUG] debug
+info
+[2025/02/12 15:34:52 test.py(18) - main] [INFO] info
+warning
+[2025/02/12 15:34:52 test.py(19) - main] [WARNING] warning
+error
+[2025/02/12 15:34:52 test.py(20) - main] [ERROR] error
+critical
+[2025/02/12 15:34:52 test.py(21) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:39:31 test.py(17) - main] [DEBUG] debug
+info
+[2025/02/12 15:39:31 test.py(18) - main] [INFO] info
+warning
+[2025/02/12 15:39:31 test.py(19) - main] [WARNING] warning
+error
+[2025/02/12 15:39:31 test.py(20) - main] [ERROR] error
+critical
+[2025/02/12 15:39:31 test.py(21) - main] [CRITICAL] critical
+debug
+info
+warning
+error
+critical
+debug
+info
+warning
+error
+critical
+debug
+[2025/02/12 15:40:51.990 test.py(17) - main] [DEBUG] debug
+info
+[2025/02/12 15:40:51.990 test.py(18) - main] [INFO] info
+warning
+[2025/02/12 15:40:51.990 test.py(19) - main] [WARNING] warning
+error
+[2025/02/12 15:40:51.990 test.py(20) - main] [ERROR] error
+critical
+[2025/02/12 15:40:51.990 test.py(21) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.710 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.710 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.710 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.710 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.710 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.710 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.711 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.711 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.711 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.711 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.711 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.711 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.711 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.711 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.711 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.711 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.711 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.711 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.711 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.711 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.711 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.712 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.712 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.712 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.712 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.712 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.712 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.712 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.712 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.712 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.712 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.712 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.712 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.712 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.712 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.712 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.713 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.713 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.713 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.713 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.713 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.713 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.713 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.713 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.713 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.713 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.713 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.713 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.713 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.713 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.713 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.714 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.714 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.714 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.714 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.714 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.714 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.714 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.714 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.714 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.714 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.714 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.714 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.714 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.714 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.714 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.714 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.715 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.715 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.715 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.715 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.715 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.715 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.715 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.715 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.715 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.715 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.715 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.715 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.716 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.716 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.716 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.716 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.716 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.716 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.716 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.716 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.716 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.716 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.716 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.716 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.716 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.716 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.717 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.717 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.717 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.717 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.717 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.717 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.717 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.717 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.717 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.717 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.717 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.717 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.717 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.717 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.717 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.718 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.718 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.718 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.718 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.718 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.718 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.718 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.718 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.718 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.718 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.718 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.718 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.718 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.718 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.718 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.718 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.719 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.719 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.719 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.719 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.719 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.719 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.719 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.719 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.719 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.719 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.719 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.719 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.719 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.719 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.719 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.719 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.720 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.720 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.720 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.720 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.720 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.720 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.720 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.720 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.720 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.720 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.720 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.720 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.720 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.720 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.720 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.720 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.721 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.721 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.721 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.721 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.721 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.721 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.721 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.721 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.721 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.721 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.721 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.721 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.721 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.722 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.722 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.722 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.722 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.722 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.722 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.722 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.722 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.722 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.722 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.722 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.722 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.722 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.722 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.722 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.723 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.723 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.723 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.723 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.723 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.723 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.723 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.723 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.723 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.723 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.723 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.723 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.723 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.724 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.724 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.724 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.724 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.724 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.724 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.724 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.724 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.724 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.724 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.724 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.724 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.724 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.725 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.725 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.725 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.725 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.725 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.725 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.725 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.725 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.725 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.725 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.725 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.725 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.726 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.726 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.726 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.726 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.726 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.726 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.726 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.726 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.726 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.726 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.726 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.726 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.726 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.726 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.726 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.726 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.727 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.727 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.727 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.727 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.727 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.727 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.727 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.727 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.727 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.727 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.727 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.727 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.727 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.727 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.727 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.727 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.727 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.728 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.728 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.728 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.728 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.728 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.728 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.728 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.728 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.728 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.728 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.728 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.728 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.728 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.728 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.729 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.729 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.729 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.729 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.729 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.729 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.729 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.729 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.729 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.729 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.729 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.729 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.729 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.729 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.729 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.729 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.730 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.730 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.730 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.730 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.730 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.730 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.730 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.730 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.730 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.730 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.730 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.730 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.730 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.730 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.730 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.730 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.731 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.731 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.731 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.731 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.731 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.731 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.731 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.731 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.731 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.731 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.731 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.731 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.731 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.731 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.731 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.731 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.732 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.732 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.732 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.732 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.732 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.732 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.732 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.732 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.732 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.732 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.732 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.732 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.732 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.732 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.732 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.733 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.733 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.733 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.733 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.733 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.733 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.733 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.733 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.733 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.733 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.733 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.733 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.733 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.733 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.733 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.734 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.734 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.734 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.734 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.734 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.734 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.734 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.734 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.734 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.734 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.734 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.734 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.734 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.734 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.735 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.735 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.735 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.735 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.735 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.735 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.735 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.735 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.735 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.735 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.735 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.735 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.735 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.735 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.736 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.736 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.736 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.736 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.736 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.736 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.736 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.736 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.736 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.736 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.736 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.736 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.736 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.736 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.737 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.737 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.737 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.737 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.737 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.737 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.737 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.737 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.737 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.737 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.737 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.737 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.737 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.737 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.737 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.738 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.738 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.738 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.738 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.738 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.738 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.738 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.738 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.738 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.738 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.738 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.738 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.738 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.738 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.738 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.739 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.739 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.739 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.739 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.739 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.739 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.739 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.739 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.739 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.739 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.739 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.739 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.739 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.740 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.740 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.740 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.740 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.740 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.740 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.740 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.740 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.740 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.741 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.741 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.741 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.741 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.741 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.741 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.741 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.741 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.741 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.741 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.742 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.742 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.742 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.742 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.742 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.742 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.742 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.742 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.742 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.742 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.742 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.742 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.742 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.742 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.743 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.743 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.743 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.743 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.743 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.743 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.743 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.743 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.743 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.743 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.743 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.743 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.743 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.744 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.744 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.744 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.744 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.744 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.744 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.744 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.744 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.744 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.744 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.744 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.744 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.744 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.745 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.745 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.745 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.745 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 15:41:14.745 test.py(18) - main] [DEBUG] debug
+info
+[2025/02/12 15:41:14.745 test.py(19) - main] [INFO] info
+warning
+[2025/02/12 15:41:14.745 test.py(20) - main] [WARNING] warning
+error
+[2025/02/12 15:41:14.745 test.py(21) - main] [ERROR] error
+critical
+[2025/02/12 15:41:14.745 test.py(22) - main] [CRITICAL] critical
+debug
+[2025/02/12 17:19:36 logger.py(32) - main] [DEBUG] debug
+info
+[2025/02/12 17:19:36 logger.py(33) - main] [INFO] info
+warning
+[2025/02/12 17:19:36 logger.py(34) - main] [WARNING] warning
+error
+[2025/02/12 17:19:36 logger.py(35) - main] [ERROR] error
+critical
+[2025/02/12 17:19:36 logger.py(36) - main] [CRITICAL] critical
+debug
+[2025/02/12 17:49:31 logger.py(52) - main] [DEBUG] debug
+info
+[2025/02/12 17:49:31 logger.py(53) - main] [INFO] info
+warning
+[2025/02/12 17:49:31 logger.py(54) - main] [WARNING] warning
+error
+[2025/02/12 17:49:31 logger.py(55) - main] [ERROR] error
+critical
+[2025/02/12 17:49:31 logger.py(56) - main] [CRITICAL] critical
